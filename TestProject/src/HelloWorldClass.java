@@ -3,7 +3,7 @@ public class HelloWorldClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Welcome to helloworld.....!");
+		System.out.println("Welcome to helloworld......!");
 
 	}
 
